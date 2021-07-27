@@ -1,0 +1,29 @@
+.header__lang-link {
+  width: 30px;
+  height: 28px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  color: #ffffff;
+  text-decoration-line: none;
+}
+
+.header__lang-link:hover {
+  transition: 0.5s;
+  opacity: 0.8;
+}
+
+.header__lang-link:first-child {
+  text-decoration-line: underline;
+  margin: 0 18px 0 0;
+}
+
+@media (max-width: 768px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
