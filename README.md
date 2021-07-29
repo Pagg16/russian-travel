@@ -12,7 +12,7 @@
 
 **Способы реализации** 
 
-[Сайт](https://github.com/Pagg16/russian-travel.git) создат при помощи grid layout, flexbox, БЭМ, а также адаптивной верстки 
+[Сайт](https://pagg16.github.io/russian-travel/) создат при помощи grid layout, flexbox, БЭМ, а также адаптивной верстки 
 
 **Доработка проекта**
 
