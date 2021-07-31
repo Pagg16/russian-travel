@@ -5,9 +5,3 @@
 .header__link-element:first-child {
   margin-right: 18px;
 }
-
-@media (max-width: 767px) {
-  .header__lang-link {
-    margin: 0 0 8px;
-  }
-}
