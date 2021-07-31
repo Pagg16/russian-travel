@@ -5,3 +5,9 @@
 .header__link-element:first-child {
   margin-right: 18px;
 }
+
+@media (max-width: 767px) {
+  .header__link-element {
+    margin: 0 0 8px;
+  }
+}
